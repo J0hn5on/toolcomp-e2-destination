@@ -1,0 +1,1 @@
+[{"_id":"fixture-001","classification":"restricted","environment":"production-class-fixture","manifest_ref":"github/restricted/deploy.yaml"},{"_id":"fixture-002","change_window":"approval-required","classification":"restricted","recovery_point":null}]
